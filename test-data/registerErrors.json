@@ -1,0 +1,16 @@
+[
+  {
+    "testName": "Kullanıcı adı boş bırakılamaz",
+    "username": "",
+    "email": "json_test_user@test.com",
+    "password": "Password123!",
+    "expectedError": "username can't be blank"
+  },
+  {
+    "testName": "Şifre 8 karakterden kısa olamaz",
+    "username": "json_user_01",
+    "email": "json_test_user@test.com",
+    "password": "123",
+    "expectedError": "password is too short"
+  }
+]
