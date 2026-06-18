@@ -18,7 +18,7 @@ test.describe('Sosyal Etkileşimler ve State (Durum) Geçişleri', () => {
         const favoriteButton = firstArticle.locator('button').first();
 
         // ==========================================
-        // 4. MÜHENDİSLİK (Veri Dönüşümü ve Matematik)
+        // 4. Veri Dönüşümü
         // Arayüzdeki " 0 " veya " 5 " gibi boşluklu metni okuyup,
         // JavaScript'in anlayabileceği saf bir rakama (Integer) çeviriyoruz.
         // ==========================================
