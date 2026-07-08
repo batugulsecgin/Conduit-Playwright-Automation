@@ -5,7 +5,6 @@ This repository showcases a modern, high-performance, and enterprise-grade End-t
 
 Designed with a strong focus on **Clean Code** principles and advanced QA engineering practices, this framework goes far beyond simple UI scripting. It demonstrates true SDET capabilities by combining UI interactions with deep network-level manipulations, API chaining, CORS handling, and Data-Driven Testing (DDT).
 
-![Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=batugulsecgin&color=blue)
 
 ## 🛠️ Tech Stack & Tools
 - **Core Framework:** Playwright (v1.x)
